@@ -1,0 +1,28 @@
+C:\Users\Kevin\Desktop\C#\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.exe.config
+C:\Users\Kevin\Desktop\C#\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.exe
+C:\Users\Kevin\Desktop\C#\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.pdb
+C:\Users\Kevin\Desktop\C#\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\C#\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.Form1.resources
+C:\Users\Kevin\Desktop\C#\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.Properties.Resources.resources
+C:\Users\Kevin\Desktop\C#\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.csproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\C#\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\C#\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.exe
+C:\Users\Kevin\Desktop\C#\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.pdb
+C:\Users\Kevin\Desktop\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.exe.config
+C:\Users\Kevin\Desktop\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.exe
+C:\Users\Kevin\Desktop\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.pdb
+C:\Users\Kevin\Desktop\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.Form1.resources
+C:\Users\Kevin\Desktop\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.Properties.Resources.resources
+C:\Users\Kevin\Desktop\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.csproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.exe
+C:\Users\Kevin\Desktop\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.pdb
+C:\Program Files\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.exe.config
+C:\Program Files\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.exe
+C:\Program Files\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.pdb
+C:\Program Files\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.Form1.resources
+C:\Program Files\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.Properties.Resources.resources
+C:\Program Files\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.csproj.GenerateResource.cache
+C:\Program Files\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.csproj.CoreCompileInputs.cache
+C:\Program Files\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.exe
+C:\Program Files\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.pdb
